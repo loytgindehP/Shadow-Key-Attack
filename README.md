@@ -21,6 +21,19 @@
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
 
+* Tutorial: https://youtu.be/0FmbbVZ5cJo
+* Tutorial: https://cryptodeeptech.ru/shadow-key-attack
+* Tutorial: https://dzen.ru/video/watch/69a1ba242ca7165f88202f63
+* Google Colab: https://bitcolab.ru/bithorecover-advanced-crypto-recovery-tool
+
+</ul>
+</blockquote>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity">
+
+
 
 <p>This research focuses on a cryptanalytic study&nbsp;of the <strong><a href="https://keyhunters.ru/shadow-key-attack-critical-ecdsa-nonce-vulnerability-recovering-the-private-key-of-lost-bitcoin-wallets-through-a-nonce-reuse-attack-when-signing-transactions-allows-an-attacker-to-perform-simple-ma/" target="_blank" rel="noreferrer noopener">Shadow Key Attack</a></strong>&nbsp;—a method of recovering Bitcoin private keys through a nonce reuse attack. This attack is directly related to the EUCLEAK mechanism and represents one of the most devastating threats to the security of the Bitcoin cryptocurrency ecosystem. This attack exploits a fundamental mathematical vulnerability in the Elliptic Curve Digital Signature Algorithm (ECDSA), the algorithm used in the Bitcoin protocol to create digital signatures for transactions.&nbsp;</p>
 
@@ -1602,7 +1615,7 @@
 
 
 
-<p><strong><a href="https://youtu.be/KJNbwfolL6g" target="_blank" rel="noreferrer noopener">Video: https://youtu.be/KJNbwfolL6g</a></strong></p>
+<p><strong><a href="https://youtu.be/0FmbbVZ5cJo" target="_blank" rel="noreferrer noopener">Video: https://youtu.be/0FmbbVZ5cJo</a></strong></p>
 
 
 

